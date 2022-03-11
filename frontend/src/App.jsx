@@ -27,7 +27,5 @@ const App = () => (
   </ThemeProvider>
 )
 
-const test = "test"
-
 export default App;
 
