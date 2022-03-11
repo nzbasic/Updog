@@ -27,5 +27,6 @@ jobs:
         uses: wearerequired/lint-action@v1
         with:
           eslint: true
-          eslint_extensions: js
+          eslint_extensions: js,jsx
           prettier: true
+          prettier_extensions: js,jsx
